@@ -7,8 +7,10 @@ This is an undergrad project for `Power System Laboratory`
 ## Important Links
  - [Dataset](https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weathe)
  -  [Production Website to check](https://loadforecasting.vercel.app/)
- - [Report](https://github.com/alamgirakash2000/electric-load-consumption-forcasting/blob/main/EEE306_report-Group-04.pdf)
- - [Presentation Slide](https://github.com/alamgirakash2000/electric-load-consumption-forcasting/blob/main/Slide_EEE306_project.pptx)
+ - [Report](https://github.com/shahriar193/electric-load-forcasting/blob/main/EEE306_report-Group-04.pdf)
+ - [Presentation Slide](https://github.com/shahriar193/electric-load-forcasting/blob/main/Slide_EEE306_project.pptx)
+ - [Notebook for selecting appropiate data and dataset](https://github.com/shahriar193/electric-load-forcasting/blob/main/electrical-load-consumption.ipynb)
+ - [Jypyter Notebook for the model](https://github.com/shahriar193/electric-load-forcasting/blob/main/after-merging.ipynb)
 
 ## Abstract
 Load forecasting is a critical tool for power companies to ensure that supply meets demand. It can be classified into three time horizons: short-term (a few hours), medium-term (a few weeks up to a year), and long-term (over a year).
